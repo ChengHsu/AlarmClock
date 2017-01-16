@@ -1,3 +1,4 @@
 # AlarmClock
-An android app
+An android app;
+
 Function: Alarm+clock+timer
